@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/VikasPandey121/Gec-Talks.svg)](http://hits.dwyl.io/VikasPandey121/Gec-Talks)
+
 # Gec-Talks
 
 Gec-Talks is a mini-project that can use for a chat with the help of snaps. It depicts some feature of Twitter. Like Twitter is used to share your views, thoughts by twitting it but here one can do the same by sending snape on their profile log so that anyone who made his/her account on Gec-Talks can see your snaps by clicking on your profile.
