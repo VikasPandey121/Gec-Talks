@@ -1,4 +1,9 @@
 [![HitCount](http://hits.dwyl.io/VikasPandey121/Gec-Talks.svg)](http://hits.dwyl.io/VikasPandey121/Gec-Talks)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/VikasPandey121/Gec-Talks/graphs/commit-activity)
+[![GitHub forks](https://img.shields.io/github/forks/VikasPandey121/Gec-Talks.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/VikasPandey121/Gec-Talks/network/)
+[![GitHub stars](https://img.shields.io/github/stars/VikasPandey121/Gec-Talks.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/VikasPandey121/Gec-Talks/stargazers/)
+[![GitHub followers](https://img.shields.io/github/followers/VikasPandey121.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/VikasPandey121?tab=followers)
+
 
 # Gec-Talks
 
