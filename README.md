@@ -3,6 +3,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/VikasPandey121/Gec-Talks?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/VikasPandey121/Gec-Talks?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/VikasPandey121?label=Follow&style=social)
+[![Gitter](https://img.shields.io/gitter/room/VikasPandey121/Gec-Talks)](https://gitter.im/HackGec/community)    
 
 
 
